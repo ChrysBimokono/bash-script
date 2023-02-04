@@ -3,7 +3,7 @@
    #Date: 2/4/2023
 
    #Subject: scrpit to install packages for jenkins
-if [ ${USER} != root]
+if [ ${USER} != root ]
 then
 echo "you need root access to run this"
 exit 1

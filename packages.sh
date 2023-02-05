@@ -2,7 +2,7 @@
 
  #Author: Chrys
  #Date: 2/4/2023
- # Subject: installing finger packages
+ # Subject: installing finger package
 yuminstall finger -y
 
 if [ $? -eq 0 ]

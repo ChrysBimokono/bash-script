@@ -1,6 +1,6 @@
 #!/bin/bash
 
- #Author: Chrys
+ #Author: Chrys bim
  #Date: 2/4/2023
  # Subject: installing finger package
 yuminstall finger -y
